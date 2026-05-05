@@ -1,0 +1,6 @@
+{
+  "name": "ThreatLens - AI Red Teaming",
+  "description": "An autonomous red team simulation platform that generates digital twins of target codebases and uses generative AI to simulate advanced persistent threats (APTs).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
